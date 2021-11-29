@@ -1,38 +1,25 @@
-# grasshopper_template
+# Parametric Lamp
 
-![Screenshot](/thumbnail.png)
+<img alt="Screenshot" src="/cake.jpg " height="270" />
 
 ## Difficulty 
 Simple
 
 ## Description 
-INSERT HERE
+Here you will find projects that use Laser cutting and 3D printing technology for making parametric food
 
 ## Repository Ownership**
-* **Practice**: INSERT HERE
-* **Sector**: INSERT HERE
-* **Original Author(s)** INSERT HERE
+* **Practice**: Design and Technology
+* **Sector**: Food Design
+* **Original Author(s)** Tatjana Somova
 * **Contact Details for Current Repository Owner(s)** tatjana.somova@mottmac.com
 
-## Installation Instructions**
-List of external packages:
-Githopper - Version=1.3.1, Snippets.scripting - Version=0.0.0.0, MetaHopper - Version=1.0.8.0
-
-In order to successfully run the code in this repository, it is recommended that you copy all external plugins used within the script to AppData folder and zip it.
-
-Path to the Grasshopper plugins:
-C:\Users\"your username"\AppData\Roaming\Grasshopper\Libraries
 
 ## Tested on**
 * **Rhino version**: 7
+* **Snapmaker 2**: A350
 
 ## Running the Code
  ```
-Insert instructions on how to run the code here.
-
+WIP
 ```
-### Change Log 
-
-### Tags 
-grasshopper_template, Grasshopper
-
