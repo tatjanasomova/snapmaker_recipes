@@ -11,8 +11,8 @@ Here you will find projects that use Laser cutting and 3D printing technology fo
 ## Repository Ownership**
 * **Practice**: Design and Technology
 * **Sector**: Food Design
-* **Original Author(s)** Tatjana Somova
-* **Contact Details for Current Repository Owner(s)** tatjana.somova@mottmac.com
+* **Original Author(s)**: Tatjana Somova
+* **Contact Details for Current Repository Owner(s)**: tatjana.somova@mottmac.com
 
 
 ## Tested on**
