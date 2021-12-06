@@ -1,4 +1,4 @@
-# Parametric Lamp
+# Snapmaker recipes
 
 <img alt="Screenshot" src="/cake.jpg " height="270" />
 
